@@ -1,0 +1,194 @@
+# 依赖文件和目录
+node_modules/
+package-lock.json
+ 
+# 日志文件
+*.log
+ 
+# 环境配置文件
+.env
+.env.local
+ 
+# 编译后的文件
+dist/
+ 
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+ 
+# 编辑器配置文件
+.idea/
+.vscode/
+ 
+# 图形化界面设计工具生成的文件
+*.orig
+ 
+# 系统锁文件
+*.lock
+ 
+# 环境变量文件
+.env
+.env.local
+ 
+# macOS 系统文件
+.DS_Store
+ 
+# 输出的报告文件
+report.txt
+ 
+# 随机生成的数据文件
+data/
+ 
+# 测试环境的数据备份
+backups/
+ 
+# 环境特定的配置
+.env.development.local
+.env.test.local
+.env.production.local
+ 
+# Visual Studio Code 目录
+.vscode/
+ 
+# 依赖项目的开发依赖
+yarn.lock
+ 
+# npm 缓存
+.npm/
+ 
+# 样式缓存
+.sass-cache/
+ 
+# 开发工具的配置文件
+.eslintrc.js
+.prettierrc.js
+ 
+# macOS 系统的 Dock 图标
+.DS_Store
+ 
+# 视频录制和编辑
+*.mov
+ 
+# 图片缓存
+.next/
+out/
+ 
+# 应用程序数据
+.local/
+.cache/
+.config/
+ 
+# 日志文件
+*.log
+ 
+#  BlueJ 布局文件
+*.bluej
+ 
+#  IntelliJ IDEA 目录
+.idea/
+ 
+#  Maven 目录
+mvnw
+.mvn/
+ 
+#  npm 缓存
+.npm/
+ 
+#  node-waf 配置文件
+.lock-wscript
+ 
+#  Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release/
+ 
+#  Dependency directories
+node_modules/
+jspm_packages/
+ 
+#  Optional npm cache directory
+.npm
+ 
+#  Optional eslint cache
+.eslintcache
+ 
+#  Output of 'npm pack'
+*.tgz
+ 
+#  Yarn Integrity file
+.yarn-integrity
+ 
+#  Distributed package object storage
+.dpos/
+ 
+#  Windows thumbnail db
+Thumbs.db
+ 
+#  Folder config file
+Desktop.ini
+ 
+#  JetBrains IDEs
+.idea/
+*.iml
+*.iws
+ 
+#  VS Code
+.vscode/
+ 
+#  Log file
+*.log
+ 
+#  BlueJ files
+*.ctxt
+ 
+#  Mobile Tools for Java (J2ME)
+.mtj.tmp/
+ 
+#  Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+ 
+#  Virtual Machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+ 
+#  Backing up your online accounts
+*/Accounts/*/Backups/*
+ 
+#  Crash Reports
+Crash Reports
+ 
+#  Spotlight
+.Spotlight-V100
+.Trashes
+ 
+#  Directories used by the EFI Bootloader
+EFI/
+ 
+#  Microsoft Office and Office 2007+ Cleanup items
+*.xlsx.cleaned
+*.pptx.cleaned
+*.docx.cleaned
+*.xls.cleaned
+*.ppt.cleaned
+*.doc.cleaned
+ 
+#  Microsoft Office Clipboard
+*.clp
+ 
+#  Outlook, Thunderbird, Windows Mail
+*.dbx
+*.snt
+*.stm
+ 
+#  Adobe Photoshop backups
+*.psd
+ 
+#  Adobe Acrobat
